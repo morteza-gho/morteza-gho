@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Morteza QorbanAlizadeh</h1>
 <h3 align="center">A Front-End developer with over 10 years of experience, and I love learning new Front-End technologies. Over the past 7 years, I have been working with Reactjs, Vuejs, and Angularjs and everything related to them to develop web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morteza-gho&label=Profile%20views&color=0e75b6&style=flat" alt="morteza-gho" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morteza-gho" alt="morteza-gho" /></a> </p>
 
 - 🔭 I’m currently working on **ICE Web Application As A Frontend Team Lead**
@@ -11,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://qorbanalizade.ir](https://qorbanalizade.ir)
 
-- 💬 Ask me about **React, Typescript, GraphQL, HTML5, CSS3**
+- 💬 Ask me about **React, Typescript, HTML5, CSS3**
 
 - 📫 How to reach me **gho.morteza@gmail.com**
 
@@ -19,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/morteza-qorbanalizade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/morteza-qorbanalizade/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/2690160/morteza-qorbanalizade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/2690160/morteza-qorbanalizade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/morteza-qorbanalizade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morteza-qorbanalizade" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2690160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2690160" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@mortezaghorbanalizade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mortezaghorbanalizade" height="30" width="40" /></a>
 </p>
 
