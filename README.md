@@ -44,6 +44,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morteza-gho&show_icons=true&locale=en&layout=compact" alt="morteza-gho" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morteza-gho&show_icons=true&locale=en" alt="morteza-gho" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morteza-gho&show_icons=true&locale=en" alt="morteza-gho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morteza-gho&" alt="morteza-gho" /></p>
+<-->
